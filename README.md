@@ -16,7 +16,7 @@ Voici quelques-uns des projets auxquels j'ai travaillé :
 - **Description:** Projet final de l'ecole 42 : un Pong en ligne. Il nous permet d'avoir une premiere approche du developpement web, de l'utilisation des bases de donnees et d'autres concepts tels que la gestion utilisateur, l'utilisation de websocket, l'architecture microservice, ect...
 - **Technologies utilisées:** Front : Javascript / Three.js |  Back : Django | BDD : Postgres | Proxy : NGINX | Technologies supplementaires : Vault.
 
-### [Matcha]((https://github.com/medPurple/Matcha)
+### [Matcha](https://github.com/medPurple/Matcha)
 - **Description:** Projet web 42 visant a crée un site de rencontre.
 - **Technologies utilisées:** Stack PERN - Postgres Express React Node.
 
